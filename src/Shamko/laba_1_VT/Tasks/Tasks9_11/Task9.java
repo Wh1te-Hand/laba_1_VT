@@ -23,4 +23,5 @@ public class Task9 implements ITask {
         System.out.printf("Weight of balls in basket: %.2f   \n", this.basket.getWeight());
         System.out.printf("Count of blue balls in basket: %d   \n", this.basket.getCountOfBallsOfColor(Color.BLUE));
     }
+
 }
