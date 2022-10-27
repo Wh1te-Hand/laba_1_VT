@@ -5,7 +5,6 @@ import Shamko.laba_1_VT.Tasks.Tasks9_11.Task9;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 
 public class StartProgram {
     public static void main(String[] args) {
